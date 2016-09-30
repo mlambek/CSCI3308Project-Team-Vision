@@ -6,7 +6,8 @@ Members:
 -Matthew Kaiser	
 -Maxwell Lambek	
 -Spencer Negri	
--Chiu Ming Tsang	
+-Chiu Ming Tsang
+-Chelsea Kipper
 
 Risks:
 Our team is a variety of skill levels in both ability and knowledge of programming. This will make it difficult for some members to complete every task to make a working project.
